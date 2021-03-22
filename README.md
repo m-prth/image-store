@@ -68,4 +68,4 @@ lib
 * You can try this app, the .apk file is in the release section of this repository.  
 
 **Note:** You will not be able to run this code as google_services,json files is deleted from the directory due to security reasons.
-
+Parth Mistry © 2021
